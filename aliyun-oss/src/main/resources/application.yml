@@ -1,0 +1,9 @@
+server:
+  port: 8111
+aliyun:
+  oss:
+    file:
+      endpoint: oss-cn-shanghai.aliyuncs.com
+      keyid: LTAI4FeTQwLmQ11qxm4yzgXb
+      keysecret: ENC(9jCRvjkG1TFUTDtCogC47QSMMsve6q4uw7vjaqIUtSF2CytYn2SecA==)
+      bucketname: oss-file-test
